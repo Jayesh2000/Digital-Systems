@@ -1,0 +1,559 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/student/Desktop/assignment2/simulation/modelsim
+Eand_2
+Z1 w1555668708
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 d/home/student/Desktop/assignment2/simulation/modelsim
+Z5 8/home/student/Desktop/assignment2/Gates.vhdl
+Z6 F/home/student/Desktop/assignment2/Gates.vhdl
+l0
+L53
+VZOU0fn=Ke0NdXF^c_hVhe0
+Z7 OV;C;10.1d;51
+31
+Z8 !s108 1555827300.082145
+Z9 !s90 -reportprogress|300|-93|-work|work|/home/student/Desktop/assignment2/Gates.vhdl|
+Z10 !s107 /home/student/Desktop/assignment2/Gates.vhdl|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+!s100 @PQ@=:RTU^CD1E_aPgzEZ1
+!i10b 1
+Aequations
+R2
+R3
+DEx4 work 5 and_2 0 22 ZOU0fn=Ke0NdXF^c_hVhe0
+l58
+L57
+V3of`=>>kQeOGUHTKYiCXe2
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 [<3J;MUj_GWK:@bVBNlRd2
+!i10b 1
+Edut
+Z13 w1555671878
+R2
+R3
+R4
+Z14 8/home/student/Desktop/assignment2/DUT.vhdl
+Z15 F/home/student/Desktop/assignment2/DUT.vhdl
+l0
+L7
+VPB[UWJ:W<gJ:f3W:oZdcF0
+R7
+31
+Z16 !s108 1555827300.143814
+Z17 !s90 -reportprogress|300|-93|-work|work|/home/student/Desktop/assignment2/DUT.vhdl|
+Z18 !s107 /home/student/Desktop/assignment2/DUT.vhdl|
+R11
+R12
+!s100 CGfJU7[aakiKBNkJd6IMm3
+!i10b 1
+Adutwrap
+R2
+R3
+DEx4 work 3 dut 0 22 PB[UWJ:W<gJ:f3W:oZdcF0
+l18
+L12
+V2IR11LPOD5`8=8ALIC>5_2
+R7
+31
+R16
+R17
+R18
+R11
+R12
+!s100 T]jBfX28Znj0l2GBe?3jX1
+!i10b 1
+Efull_adder
+Z19 w1555668692
+Z20 DPx4 work 5 gates 0 22 boZiO=dMgI?:I>Q<@B8dH2
+R2
+R3
+R4
+Z21 8/home/student/Desktop/assignment2/Full_Adder.vhdl
+Z22 F/home/student/Desktop/assignment2/Full_Adder.vhdl
+l0
+L7
+VS9NimlUUOA[Rb<K2jBke`1
+R7
+31
+Z23 !s108 1555827300.167231
+Z24 !s90 -reportprogress|300|-93|-work|work|/home/student/Desktop/assignment2/Full_Adder.vhdl|
+Z25 !s107 /home/student/Desktop/assignment2/Full_Adder.vhdl|
+R11
+R12
+!s100 Q?1nk>QZig8I>6Z;mZGML0
+!i10b 1
+Astruct
+R20
+R2
+R3
+DEx4 work 10 full_adder 0 22 S9NimlUUOA[Rb<K2jBke`1
+l12
+L10
+VG;bTi896Q2@G@P@mWFdTb0
+R7
+31
+R23
+R24
+R25
+R11
+R12
+!s100 R2mLekgcT>X5:IhzfZEOF1
+!i10b 1
+Pgates
+R2
+R3
+R1
+R4
+R5
+R6
+l0
+L3
+VboZiO=dMgI?:I>Q<@B8dH2
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 ^79cb>@W8ikcMIm[;;WDL0
+!i10b 1
+Ehalf_adder
+R1
+R2
+R3
+R4
+R5
+R6
+l0
+L120
+VTFEggJmEh6maV]z<Vf9Oe0
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 J2i9=j1GIDmB0Q4P7YQk]2
+!i10b 1
+Aequations
+R2
+R3
+DEx4 work 10 half_adder 0 22 TFEggJmEh6maV]z<Vf9Oe0
+l125
+L124
+V1OZei?d?HOoYzBeR9@=l?3
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 PQ<R63WcXQRgnhM<Q]RA_1
+!i10b 1
+Einverter
+R1
+R2
+R3
+R4
+R5
+R6
+l0
+L41
+V3c6kN?KiOjM^k>NGePEm90
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 C00kj_Z<OEQOB0:6;Shbf2
+!i10b 1
+Aequations
+R2
+R3
+DEx4 work 8 inverter 0 22 3c6kN?KiOjM^k>NGePEm90
+l46
+L45
+VSSN0994cTn6ZPRD<>nhUj0
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 VX3jgDz161IXVl:CI0Qh02
+!i10b 1
+Emultiplier
+Z26 w1555752470
+R20
+R2
+R3
+R4
+Z27 8/home/student/Desktop/assignment2/multiplier.vhdl
+Z28 F/home/student/Desktop/assignment2/multiplier.vhdl
+l0
+L5
+VzXMmi:VeSRQdzK5^>oDHA0
+R7
+31
+Z29 !s108 1555827300.192932
+Z30 !s90 -reportprogress|300|-93|-work|work|/home/student/Desktop/assignment2/multiplier.vhdl|
+Z31 !s107 /home/student/Desktop/assignment2/multiplier.vhdl|
+R11
+R12
+!s100 mVP<6DzW@W`4<^4WN`hZ63
+!i10b 1
+Adesign
+R20
+R2
+R3
+DEx4 work 10 multiplier 0 22 zXMmi:VeSRQdzK5^>oDHA0
+l37
+L12
+V5nClm:OZ[2PJ_BNGTUjJ23
+R7
+31
+R29
+R30
+R31
+R11
+R12
+!s100 lRM:6VhA33^_n1Smic[hl0
+!i10b 1
+Emux
+Z32 w1555751060
+R20
+R2
+R3
+R4
+Z33 8/home/student/Desktop/assignment2/mux.vhdl
+Z34 F/home/student/Desktop/assignment2/mux.vhdl
+l0
+L5
+V?WBBNQS5SJ4DNkXA:elo?1
+R7
+31
+Z35 !s108 1555827300.218603
+Z36 !s90 -reportprogress|300|-93|-work|work|/home/student/Desktop/assignment2/mux.vhdl|
+Z37 !s107 /home/student/Desktop/assignment2/mux.vhdl|
+R11
+R12
+!s100 ;eXRcz6mdXKNAFj4LNJKh0
+!i10b 1
+Adesign
+R20
+R2
+R3
+DEx4 work 3 mux 0 22 ?WBBNQS5SJ4DNkXA:elo?1
+l14
+L13
+Vcc3=TBof[jK@8nHdENnIo1
+R7
+31
+R35
+R36
+R37
+R11
+R12
+!s100 IoSYXKkd1NPBAYRo]dl:;0
+!i10b 1
+Enand_2
+R1
+R2
+R3
+R4
+R5
+R6
+l0
+L64
+VHj;inc<hXlnkZIC5ABTQd2
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 7o0DOZX?i?VK5H@J0o@__0
+!i10b 1
+Aequations
+R2
+R3
+DEx4 work 6 nand_2 0 22 Hj;inc<hXlnkZIC5ABTQd2
+l69
+L68
+VX1JWBo1jhTF>LImW;^lQ;0
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 MO1Q95jREBQTgS65H0Nn31
+!i10b 1
+Enor_2
+R1
+R2
+R3
+R4
+R5
+R6
+l0
+L86
+Vg@74PZ@]WF>]z2@MHB3fY3
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 n=[NaMTm19EVHQo?=bL1D0
+!i10b 1
+Aequations
+R2
+R3
+DEx4 work 5 nor_2 0 22 g@74PZ@]WF>]z2@MHB3fY3
+l91
+L90
+VW_36la9nN2SD]`QLoi]2d2
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 lB3d5JMIQRkoV=D_A7Pb32
+!i10b 1
+Eor_2
+R1
+R2
+R3
+R4
+R5
+R6
+l0
+L75
+Vcj^JPCbW:]`aoVkmj:85d1
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 FN^T;YZfP`2[64K`d:]g80
+!i10b 1
+Aequations
+R2
+R3
+DEx4 work 4 or_2 0 22 cj^JPCbW:]`aoVkmj:85d1
+l80
+L79
+VCLRTn6KWg]kFmcfdJXd_X2
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 eEzJbDhOeleN3_RU4CeF=2
+!i10b 1
+Eprecision_multiplier
+Z38 w1555841652
+Z39 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R20
+R2
+R3
+R4
+Z40 8/home/student/Desktop/assignment2/precisionmultiplier.vhdl
+Z41 F/home/student/Desktop/assignment2/precisionmultiplier.vhdl
+l0
+L8
+VBZid]=:KV`9oaOJ_XYlWC1
+R7
+31
+Z42 !s108 1555827300.243267
+Z43 !s90 -reportprogress|300|-93|-work|work|/home/student/Desktop/assignment2/precisionmultiplier.vhdl|
+Z44 !s107 /home/student/Desktop/assignment2/precisionmultiplier.vhdl|
+R11
+R12
+!s100 U4hVWPeXmU6GVlA@o<=070
+!i10b 1
+Adesign
+R39
+R20
+R2
+R3
+DEx4 work 20 precision_multiplier 0 22 BZid]=:KV`9oaOJ_XYlWC1
+l29
+L15
+VL6HQhWA2KnZfH7kMbz9g81
+R7
+31
+R42
+R43
+R44
+R11
+R12
+!s100 l]a2_1R7dCOS7ZjIbcSXI3
+!i10b 1
+Etenbit
+Z45 w1555671716
+R2
+R3
+R4
+Z46 8/home/student/Desktop/assignment2/tenbit.vhdl
+Z47 F/home/student/Desktop/assignment2/tenbit.vhdl
+l0
+L4
+VCffC^;49:hohibT2?HKj`0
+R7
+31
+Z48 !s108 1555827300.120084
+Z49 !s90 -reportprogress|300|-93|-work|work|/home/student/Desktop/assignment2/tenbit.vhdl|
+Z50 !s107 /home/student/Desktop/assignment2/tenbit.vhdl|
+R11
+R12
+!s100 cQ;MZg`?[fX5@lZbX2UWR3
+!i10b 1
+Astruct
+R2
+R3
+DEx4 work 6 tenbit 0 22 CffC^;49:hohibT2?HKj`0
+l17
+L11
+V475b4m40Kge]g>[G@5`ab2
+R7
+31
+R48
+R49
+R50
+R11
+R12
+!s100 4BcJ6FG0M`_2?dUbz>27L1
+!i10b 1
+Etestbench
+Z51 w1555826987
+R3
+R2
+R4
+Z52 8/home/student/Desktop/assignment2/Testbench.vhdl
+Z53 F/home/student/Desktop/assignment2/Testbench.vhdl
+l0
+L7
+V@o>BK@a<^^@Vz7TIVUX[O0
+!s100 54NP;<e78=6aVH3H:jl=X0
+R7
+31
+!i10b 1
+Z54 !s108 1555827300.274954
+Z55 !s90 -reportprogress|300|-93|-work|work|/home/student/Desktop/assignment2/Testbench.vhdl|
+Z56 !s107 /home/student/Desktop/assignment2/Testbench.vhdl|
+R11
+R12
+Abehave
+R3
+R2
+DEx4 work 9 testbench 0 22 @o>BK@a<^^@Vz7TIVUX[O0
+l69
+L9
+VG;PLO;2Vhk0EJfN@J0CAd3
+!s100 ]ImiXd;`oKgDB5<A@=l:n3
+R7
+31
+!i10b 1
+R54
+R55
+R56
+R11
+R12
+Exnor_2
+R1
+R2
+R3
+R4
+R5
+R6
+l0
+L109
+VSgTlAg@2n[i`iGdh:iDXk2
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 5<HlCBi1hjUFA7^oNhOe>0
+!i10b 1
+Aequations
+R2
+R3
+DEx4 work 6 xnor_2 0 22 SgTlAg@2n[i`iGdh:iDXk2
+l114
+L113
+VNiTHY;nT12QdJQDQha]Nn1
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 ULEIHFld1BZNAW^UU_lzU2
+!i10b 1
+Exor_2
+R1
+R2
+R3
+R4
+R5
+R6
+l0
+L98
+Vb<A>i45946UAOcQ44_]NO0
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 cT>>zfn0>kG33K27mRE961
+!i10b 1
+Aequations
+R2
+R3
+DEx4 work 5 xor_2 0 22 b<A>i45946UAOcQ44_]NO0
+l103
+L102
+V>e8Jhb>:`o@kWWYiVzjgP1
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 4R9abz]8bQX68d8Ue6lL41
+!i10b 1
