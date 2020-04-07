@@ -1,0 +1,9 @@
+This folder contains the following items:
+(1) assignment2 : folder which contain the entire project that was tested on quartus
+(2) VHDL_files : folder that contains only the VHDL files for the assignment
+(3) modified_precisionmultiplier.vhdl : VHDL file for precision multiplier considering the representation of zero.
+(4) Report.pdf : Report for the project
+(5) OUTPUTS.txt : obtained output file for the vhdl project 
+(6) TRACEFILE.txt : tracefile for the project
+(7) 2_successfull.png : transcript showing that all test cases were passed
+(8) 2_wave.png : output waveform obtained
