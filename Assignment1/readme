@@ -1,8 +1,0 @@
-This folder contains the following items:
-(1) assignment1 : folder which contain the entire project that was tested on quartus
-(2) VHDL_files : folder that contains only the VHDL files for the assignment
-(3) Report.pdf : Report for the project
-(4) OUTPUTS.txt : obtained output file for the vhdl project 
-(5) TRACEFILE.txt : tracefile for the project
-(6) 1_successfull.png : transcript showing that all test cases were passed
-(7) 1_wave.png : output waveform obtained
