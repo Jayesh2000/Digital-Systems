@@ -1,0 +1,89 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Setup 'input_vector[1]'
+Slack : -20.527
+TNS   : -2228.370
+
+Type  : Setup 'final:add_instance|alu_control_dummy[0]'
+Slack : -18.607
+TNS   : -225.234
+
+Type  : Setup 'final:add_instance|fsm_state.s14'
+Slack : -8.310
+TNS   : -69.650
+
+Type  : Setup 'final:add_instance|IR[0]'
+Slack : -7.718
+TNS   : -19.474
+
+Type  : Setup 'final:add_instance|fsm_state.s0'
+Slack : -7.454
+TNS   : -79.184
+
+Type  : Setup 'final:add_instance|fsm_state.s11'
+Slack : -6.619
+TNS   : -184.915
+
+Type  : Setup 'final:add_instance|fsm_state.s1'
+Slack : -4.967
+TNS   : -26.330
+
+Type  : Hold 'final:add_instance|alu_control_dummy[0]'
+Slack : -5.438
+TNS   : -59.400
+
+Type  : Hold 'final:add_instance|IR[0]'
+Slack : -3.956
+TNS   : -6.243
+
+Type  : Hold 'final:add_instance|fsm_state.s11'
+Slack : -3.931
+TNS   : -88.721
+
+Type  : Hold 'final:add_instance|fsm_state.s14'
+Slack : -3.914
+TNS   : -48.272
+
+Type  : Hold 'input_vector[1]'
+Slack : -1.981
+TNS   : -2.871
+
+Type  : Hold 'final:add_instance|fsm_state.s1'
+Slack : -1.107
+TNS   : -1.107
+
+Type  : Hold 'final:add_instance|fsm_state.s0'
+Slack : 3.291
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'input_vector[1]'
+Slack : -2.289
+TNS   : -2.289
+
+Type  : Minimum Pulse Width 'final:add_instance|IR[0]'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'final:add_instance|alu_control_dummy[0]'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'final:add_instance|fsm_state.s0'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'final:add_instance|fsm_state.s1'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'final:add_instance|fsm_state.s11'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'final:add_instance|fsm_state.s14'
+Slack : 0.500
+TNS   : 0.000
+
+------------------------------------------------------------

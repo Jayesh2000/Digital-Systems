@@ -1,0 +1,16 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vcom -93 -work work {/home/vishesh/altera_lite/16.0/Final_attempt/regfile.vhdl}
+vcom -93 -work work {/home/vishesh/altera_lite/16.0/Final_attempt/alu.vhdl}
+vcom -93 -work work {/home/vishesh/altera_lite/16.0/Final_attempt/2to1mux.vhdl}
+vcom -93 -work work {/home/vishesh/altera_lite/16.0/Final_attempt/final.vhdl}
+vcom -93 -work work {/home/vishesh/altera_lite/16.0/Final_attempt/fa1bit.vhd}
+vcom -93 -work work {/home/vishesh/altera_lite/16.0/Final_attempt/mem_implementation.vhd}
+vcom -93 -work work {/home/vishesh/altera_lite/16.0/Final_attempt/fa8bit.vhd}
+vcom -93 -work work {/home/vishesh/altera_lite/16.0/Final_attempt/fa16bit.vhd}
+

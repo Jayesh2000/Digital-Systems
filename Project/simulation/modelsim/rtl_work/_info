@@ -1,0 +1,426 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/simulation/modelsim
+Ealu
+Z1 w1557105174
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z4 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z7 8/home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/alu.vhdl
+Z8 F/home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/alu.vhdl
+l0
+L5
+VnY1`ObejnM36Hm@EY^G`o1
+!s100 Q6Ei:U>LjQ4h5?XzkoX7_3
+Z9 OV;C;10.5b;63
+31
+Z10 !s110 1557120423
+!i10b 1
+Z11 !s108 1557120423.000000
+Z12 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/alu.vhdl|
+Z13 !s107 /home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/alu.vhdl|
+!i113 1
+Z14 o-93 -work work
+Z15 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+R5
+R6
+DEx4 work 3 alu 0 22 nY1`ObejnM36Hm@EY^G`o1
+l33
+L16
+VIIOh@9z30ka@h1znJ3]_?1
+!s100 Sc8fm;`WS4BJ<ENc5f:8h2
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Edut
+Z16 w1557119851
+R5
+R6
+R0
+Z17 8/home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/DUT.vhdl
+Z18 F/home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/DUT.vhdl
+l0
+L7
+Vn;ieT^9@nWQ[Y^3@WgDeO1
+!s100 VCI5YHiG[oM?Z@Ti>doQH0
+R9
+31
+R10
+!i10b 1
+R11
+Z19 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/DUT.vhdl|
+Z20 !s107 /home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/DUT.vhdl|
+!i113 1
+R14
+R15
+Adutwrap
+R5
+R6
+DEx4 work 3 dut 0 22 n;ieT^9@nWQ[Y^3@WgDeO1
+l19
+L12
+VFbRWn;?_<3PA@?Ib`CIYk2
+!s100 IKEfdnbNVhzVjYj0YV:DJ2
+R9
+31
+R10
+!i10b 1
+R11
+R19
+R20
+!i113 1
+R14
+R15
+Efa16bit
+Z21 w1557105319
+R5
+R6
+R0
+Z22 8/home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/fa16bit.vhd
+Z23 F/home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/fa16bit.vhd
+l0
+L4
+Vh_o4J^^[b^n[AhBTYCb:50
+!s100 A9V[Pfj;X<04mD0@^k8;d3
+R9
+31
+R10
+!i10b 1
+R11
+Z24 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/fa16bit.vhd|
+Z25 !s107 /home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/fa16bit.vhd|
+!i113 1
+R14
+R15
+Afa16bit_beh
+R5
+R6
+DEx4 work 7 fa16bit 0 22 h_o4J^^[b^n[AhBTYCb:50
+l21
+L11
+VT<8R3@@`bW]SDVWmiOY451
+!s100 YnNb]E<o=X@3JJ831DF=g3
+R9
+31
+R10
+!i10b 1
+R11
+R24
+R25
+!i113 1
+R14
+R15
+Efa1bit
+Z26 w1556989186
+R5
+R6
+R0
+Z27 8/home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/fa1bit.vhd
+Z28 F/home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/fa1bit.vhd
+l0
+L7
+VjTaW9g:PkUd9oCmaOd8cC3
+!s100 2:4lYHMB9V2lTBoY>[@?>0
+R9
+31
+R10
+!i10b 1
+R11
+Z29 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/fa1bit.vhd|
+Z30 !s107 /home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/fa1bit.vhd|
+!i113 1
+R14
+R15
+Afa1bit_beh
+R5
+R6
+DEx4 work 6 fa1bit 0 22 jTaW9g:PkUd9oCmaOd8cC3
+l13
+L12
+V8_b3HDUOd_NAjDF4kb[jj0
+!s100 <P:`W0l73HBPCh8SlfmQZ1
+R9
+31
+R10
+!i10b 1
+R11
+R29
+R30
+!i113 1
+R14
+R15
+Efa8bit
+R26
+R5
+R6
+R0
+Z31 8/home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/fa8bit.vhd
+Z32 F/home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/fa8bit.vhd
+l0
+L7
+VRKfGloZPU`8m4N?U0>m8m2
+!s100 6cRVQR88coJB@?S7>W?Kd1
+R9
+31
+R10
+!i10b 1
+R11
+Z33 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/fa8bit.vhd|
+Z34 !s107 /home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/fa8bit.vhd|
+!i113 1
+R14
+R15
+Afa8bit_beh
+R5
+R6
+DEx4 work 6 fa8bit 0 22 RKfGloZPU`8m4N?U0>m8m2
+l23
+L14
+V?VMijJm[n[4ck]:gE=DXP0
+!s100 Y81oJ_c3n>lI4KDkX>fD=3
+R9
+31
+R10
+!i10b 1
+R11
+R33
+R34
+!i113 1
+R14
+R15
+Efinal
+Z35 w1557110183
+Z36 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R3
+R2
+R5
+R6
+R0
+Z37 8/home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/final.vhdl
+Z38 F/home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/final.vhdl
+l0
+L9
+VGzi<;9_WFPIhP9HQ074aL3
+!s100 `A0ncm911_S2nG=hGf<4i0
+R9
+31
+R10
+!i10b 1
+R11
+Z39 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/final.vhdl|
+Z40 !s107 /home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/final.vhdl|
+!i113 1
+R14
+R15
+Abehave
+R36
+R3
+R2
+R5
+R6
+DEx4 work 5 final 0 22 Gzi<;9_WFPIhP9HQ074aL3
+l68
+L17
+VeWoK@A^@;k6=dUNLkdgTg0
+!s100 ha6>=nG>l::Tb0=33jlDh3
+R9
+31
+R10
+!i10b 1
+R11
+R39
+R40
+!i113 1
+R14
+R15
+Ememory_syncread_syncwrite
+Z41 w1557113906
+R36
+R3
+R2
+R5
+R6
+R0
+Z42 8/home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/mem_implementation.vhd
+Z43 F/home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/mem_implementation.vhd
+l0
+L13
+VVV54<0L4fj?M_L9XB5i_91
+!s100 @XY`n1JV9VG4RZ46<nhnI0
+R9
+31
+R10
+!i10b 1
+R11
+Z44 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/mem_implementation.vhd|
+Z45 !s107 /home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/mem_implementation.vhd|
+!i113 1
+R14
+R15
+Aform
+R36
+R3
+R2
+R5
+R6
+DEx4 work 25 memory_syncread_syncwrite 0 22 VV54<0L4fj?M_L9XB5i_91
+l27
+L18
+VoJM[V:?MBP9ebVzL5PhM[3
+!s100 aQ:5H@;iQX1jk]jSGLdEm2
+R9
+31
+R10
+!i10b 1
+R11
+R44
+R45
+!i113 1
+R14
+R15
+Emux2to1
+Z46 w1556997398
+R2
+R3
+R36
+R5
+R6
+R0
+Z47 8/home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/2to1mux.vhdl
+Z48 F/home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/2to1mux.vhdl
+l0
+L6
+VB7:3R7odYXIn3d7[604fC3
+!s100 AMhmEI`<0AM23E@n[T]951
+R9
+31
+R10
+!i10b 1
+R11
+Z49 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/2to1mux.vhdl|
+Z50 !s107 /home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/2to1mux.vhdl|
+!i113 1
+R14
+R15
+Abehav
+R2
+R3
+R36
+R5
+R6
+DEx4 work 7 mux2to1 0 22 B7:3R7odYXIn3d7[604fC3
+l14
+L13
+VHgQOb<N?eS4jDBD=[6<dm3
+!s100 hGNEbQZcdFhM4[VY;Sn>`3
+R9
+31
+R10
+!i10b 1
+R11
+R49
+R50
+!i113 1
+R14
+R15
+Eregister_file_vhdl
+Z51 w1557112610
+R2
+R5
+R6
+R0
+Z52 8/home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/regfile.vhdl
+Z53 F/home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/regfile.vhdl
+l0
+L7
+VdYh=iLc_nMBNlCnc@WzaN2
+!s100 ECi[5fC<PC[nU^bf3k2PG2
+R9
+31
+R10
+!i10b 1
+R11
+Z54 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/regfile.vhdl|
+Z55 !s107 /home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/regfile.vhdl|
+!i113 1
+R14
+R15
+Abehavioral
+R2
+R5
+R6
+DEx4 work 18 register_file_vhdl 0 22 dYh=iLc_nMBNlCnc@WzaN2
+l23
+L20
+VRTjX@cC0mg^nWTaA2EVSk2
+!s100 P:;6[`9jEIA2KSZ^Je[Xh1
+R9
+31
+R10
+!i10b 1
+R11
+R54
+R55
+!i113 1
+R14
+R15
+Etestbench
+Z56 w1557119515
+R6
+R5
+R0
+Z57 8/home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/Testbench.vhdl
+Z58 F/home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/Testbench.vhdl
+l0
+L7
+V]iKK_Z9L:G9B:i8c]3eFH0
+!s100 bWf8kl8zb90X@P1m>V^K20
+R9
+31
+R10
+!i10b 1
+R11
+Z59 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/Testbench.vhdl|
+Z60 !s107 /home/gaurav/Desktop/Sem4/EE224/projectdigi/asyncronousmemoryread/Testbench.vhdl|
+!i113 1
+R14
+R15
+Abehave
+R6
+R5
+DEx4 work 9 testbench 0 22 ]iKK_Z9L:G9B:i8c]3eFH0
+l69
+L9
+VPMCc@g=TKZ[hnjA9`UYXl1
+!s100 fSoJ5RGeCHM?V^=l>DRGm3
+R9
+31
+R10
+!i10b 1
+R11
+R59
+R60
+!i113 1
+R14
+R15
